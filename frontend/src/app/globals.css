@@ -1,5 +1,6 @@
-@import "tailwindcss";
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 :root {
   --primary-orange: #FF6B35;
   --dark-bg: #1a1a1a;
